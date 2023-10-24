@@ -8,12 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/dida/eslint-config-shared.git"
+    "url": "https://github.com/asadbek2021/eslint-config-shared.git"
   },
   "keywords": [
     "eslint"
   ],
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
   "author": "",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/dida/eslint-config-shared#readme"
+  "license": "ISC"
 }
