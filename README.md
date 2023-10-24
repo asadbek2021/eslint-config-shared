@@ -1,0 +1,1 @@
+#Global shareable config for ESLint

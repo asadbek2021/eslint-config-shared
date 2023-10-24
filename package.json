@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-shared",
+  "version": "1.0.0",
+  "description": "Shared ESLint configuration for common use",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/dida/eslint-config-shared.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/dida/eslint-config-shared#readme"
+}
